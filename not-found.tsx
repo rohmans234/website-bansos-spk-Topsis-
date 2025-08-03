@@ -6,4 +6,4 @@ export default function NotFound() {
         <p className="mt-4 text-xl md:text-2xl text-gray-500">Tell me what you would like on this page</p>
       </div>
     );
-  }
+}
